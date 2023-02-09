@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/ApiAndroidSamples/obj/Debug/net6.0
+/ApiAndroidSamples/obj
+/Config/obj
+/Entities/obj
+/Services/obj
+/ViewModels/obj
